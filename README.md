@@ -8,5 +8,5 @@ Built with:
 - knex
 
 Databases:
-local: sqlite3
-production: postgresql
+- local: sqlite3
+- production: postgresql
