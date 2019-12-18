@@ -1,4 +1,4 @@
-# nodeknexpostgres_template
+# node-postgres-template
 
 This is a very simple template to quickly deploy a server and db to Heroku
 
